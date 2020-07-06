@@ -110,6 +110,6 @@ Some methods to improve the performance:
 
 To sum up, to recognize the hand-writting digits is not a complicated task for neural network, so reletavily consice and simple archtecher is even better for a sophisticated one. However, intuitively, the accuracy of this task is lower that single digit recognization, since we need two fully connected layers to predict two digits for one time. 
 
-*** Remark **
+** Remark **
 
 Code is partially referred from https://github.com/yunjey/pytorch-tutorial
